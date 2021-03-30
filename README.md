@@ -1,4 +1,4 @@
-![logo](/uploads/4314307b69d1017bf8b22767856e3ff4/logo.jpg)
+
 
 <h1 align="center">Plataforma Cadastro Positivo</h1>
 
